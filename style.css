@@ -1,0 +1,7 @@
+.box-demo {
+  width: 240px;
+  height: 120px;
+  padding: 12px;
+  border: 2px solid #333;
+  margin: 16px auto;
+}
